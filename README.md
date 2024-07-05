@@ -29,3 +29,7 @@ making it easy for stakeholders to understand the insights.
 ![Screenshot 2024-06-27 221051](https://github.com/mdnazrulislam-code/Healthcare-data-analytics-report-dashboard/assets/75695509/a89de6a8-945a-42ea-b47c-8bf137148c02)
 
 ![Screenshot 2024-06-27 221108](https://github.com/mdnazrulislam-code/Healthcare-data-analytics-report-dashboard/assets/75695509/04856043-9350-468e-917d-54a6d6caa4e9)
+
+![Screenshot 2024-07-06 030807](https://github.com/mdnazrulislam-code/Healthcare-data-analytics-report-dashboard/assets/75695509/d2145925-bd12-49d0-84c0-fe072b3f3a19)
+
+![Screenshot 2024-07-06 030844](https://github.com/mdnazrulislam-code/Healthcare-data-analytics-report-dashboard/assets/75695509/ef3475c5-b89d-45b9-aeff-442610b3ec80)
